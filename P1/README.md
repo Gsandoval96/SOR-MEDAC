@@ -1,7 +1,7 @@
 # SOR-MEDAC
 
 ## Práctica 1. Nombre de la práctica
-Realizada por ---- y Guillermo Sandoval Schmidt.
+Realizada por Guillermo Sandoval Schmidt.
 
 ### Objetivos
 - Objetivo 1.
