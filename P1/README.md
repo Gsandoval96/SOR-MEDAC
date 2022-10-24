@@ -10,4 +10,4 @@ Realizada por Guillermo Sandoval Schmidt.
 ### Desarrollo de la práctica
 Para las prácticas hemos utilizado el software de virtualización **VirtualBox**.
 
-![Logo MEDAC](img/logo_medac.png)
+![Logo MEDAC](img/medac-logo.png)
