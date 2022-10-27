@@ -28,7 +28,7 @@ Esto se vería así:
 
 ### Negrita
 
-Para poner negrita en un texto, utilizaremos ** antes y después del texto que deseemos resaltar. Por ejemplo, si usamos la sintaxis `**hola_mundo`, obtendríamos como resultado **hola_mundo**.
+Para poner negrita en un texto, utilizaremos ** antes y después del texto que deseemos resaltar. Por ejemplo, si usamos la sintaxis `**hola_mundo**`, obtendríamos como resultado **hola_mundo**.
 
 ## Links
 
