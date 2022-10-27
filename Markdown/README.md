@@ -4,7 +4,7 @@
 
 Para poner una cabecera, utilizaremos el caractér # para indicar que queremos una.
 
-Según el número de # que usemos....
+Según el número de # que usemos, a mayor número de #, menor será el tamaño de la cabecera.
 
 Por ejemplo:
 
@@ -28,7 +28,7 @@ Esto se vería así:
 
 ### Negrita
 
-Para poner negrita en un texto, utilizaremos ** antes y después del texto que deseemos resaltar. Por ejemplo, **hola clase**.
+Para poner negrita en un texto, utilizaremos ** antes y después del texto que deseemos resaltar. Por ejemplo, si usamos la sintaxis `**hola_mundo`, obtendríamos como resultado **hola_mundo**.
 
 ## Links
 
