@@ -1,7 +1,7 @@
 # SOR-MEDAC
  
-- ### [Manual de Markdown](Markdown/README.md)
-- ### Práctica 1: [Nombre de la práctica 1](P1/README.md)
+- ### [Manual de Markdown](Manual_Markdown/README.md)
+- ### Práctica 1: [Windows Server](P1/README.md)
 
 ---
 
